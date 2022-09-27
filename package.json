@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "element-ui": "^2.3.9",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "vue": "^2.5.16"
   },
   "devDependencies": {
